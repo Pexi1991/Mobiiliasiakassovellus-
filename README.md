@@ -1,0 +1,1 @@
+tarkkailuaslusta asiakkaalle mobiilina
