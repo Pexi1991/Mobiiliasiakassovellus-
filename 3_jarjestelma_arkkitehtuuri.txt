@@ -1,2 +1,2 @@
 Tähän kirjoitetaan järjestelmäarkkitehtuurista.
-Testataan branchiä.
+Ei testata enää branchiä.
