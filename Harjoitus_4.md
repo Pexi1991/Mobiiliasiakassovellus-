@@ -12,13 +12,13 @@ atomisia palveluita, jotta ei olisi haastavia ja kalliita integraatio projekteja
 5. Yhtenäisyydet kurssin projektirunkoon:
 * Johdanto 
 * järjestelmäarkkitehtuuri, 
-* vaatimukset: vain ei tominnallisia vaatimuksia, 
+* vaatimukset,
 * käyttöliittymästä maininta
 Yhtenäisyydet wikipedia runkoon:
 * Johdanto 
 * järjestelmäarkkitehtuuri, 
-* vaatimukset: vain ei tominnallisia vaatimuksia, 
-* käyttöliittymästä maininta
+* vaatimukset,
+* käyttöliittymästä maininta,
 * käsitteen määrittely
 
 Käyttätapaukset
@@ -28,3 +28,24 @@ Käyttätapaukset
 * Käyttötapauksista ei juurikaan saa kuvaa. 
 * Käyttötapauksista saa ehkä parempaa kuvaa asiantuntevat ihmiset, mutta me emme saa siitä otetta vaan 
 se tulisi ilmaista paremmin siinämielessä.
+
+Järjetelmänyleisrakenne
+-----------------------
+
+* Dokumentissa käytetää perustaulukkoa sekä diagrammikaaviota. 
+* Käytetään havainnollistamaan ja selkeyttämään järjestelmää.
+
+Funktionaaliset ja ei-funktionaaliset vaatimukset
+-------------------------------------------------
+
+* 
+
+Miltä se näyttää?
+-----------------
+
+Prosessimallit
+--------------
+
+Johtopäätökset, omat mielipiteet
+--------------------------------
+
