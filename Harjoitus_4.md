@@ -10,16 +10,16 @@ sovellusarkkitehtuurista ja niiden teknisistä asioista.
 4. Motivaatiosta ei ollut ilmaistu johdannossa. Halutaan monoliittisten tilalle muodostaa 
 atomisia palveluita, jotta ei olisi haastavia ja kalliita integraatio projekteja.
 5. Yhtenäisyydet kurssin projektirunkoon:
-* Johdanto 
-* järjestelmäarkkitehtuuri, 
-* vaatimukset,
-* käyttöliittymästä maininta
+	* Johdanto 
+	* järjestelmäarkkitehtuuri, 
+	* vaatimukset,
+	* käyttöliittymästä maininta
 Yhtenäisyydet wikipedia runkoon:
-* Johdanto 
-* järjestelmäarkkitehtuuri, 
-* vaatimukset,
-* käyttöliittymästä maininta,
-* käsitteen määrittely
+	* Johdanto 
+	* järjestelmäarkkitehtuuri, 
+	* vaatimukset,
+	* käyttöliittymästä maininta,
+	* käsitteen määrittely
 
 Käyttätapaukset
 ---------------
