@@ -60,3 +60,4 @@ Johtopäätökset, omat mielipiteet
 
 * Hyvän dokumentin perusta on se, että siitä saa jonkinlaisen kuvan.
 * Dokumentin perusteella on vakeaa saada mitään kuvaa ilman teknistä tuntemusta.
+* Kaavioita käytetty vähän, mutta se vähäkin auttaa järjestelmän hahmotuksessa merkittävästi.
