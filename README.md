@@ -1,3 +1,3 @@
 Mobiiliasiakassovellus
 ======================
-[Johdanto](docs/1_johdanto.md)
+[Johdanto](/1_johdanto.md)
