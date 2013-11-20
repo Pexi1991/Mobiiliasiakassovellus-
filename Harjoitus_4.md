@@ -14,8 +14,7 @@ atomisia palveluita, jotta ei olisi haastavia ja kalliita integraatio projekteja
 	* järjestelmäarkkitehtuuri, 
 	* vaatimukset,
 	* käyttöliittymästä maininta
-
-Yhtenäisyydet wikipedia runkoon:
+	Yhtenäisyydet wikipedia runkoon:
 	* Johdanto 
 	* järjestelmäarkkitehtuuri, 
 	* vaatimukset,
