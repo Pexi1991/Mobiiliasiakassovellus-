@@ -38,14 +38,23 @@ Järjetelmänyleisrakenne
 Funktionaaliset ja ei-funktionaaliset vaatimukset
 -------------------------------------------------
 
-* 
+* toiminnallisia vaatimuksia lueteltu dokumentin varrella: esim."tilan tallennukseen liittyvät 
+asiat hoidetaan käyttöliittymässä, workflowssa tai prosessi yms. moottorissa."
+* ei-funktionaalisia vaatimuksia on lueteltu alkuperäisessä dokumentissä, mutta kyseisestä linkistä viimeiset sivut on poistettu.
 
 Miltä se näyttää?
 -----------------
 
+* Dokumentissa ei ole mitään visualisointia kyseisestä järjestelmästä.
+* Ei ns. käyttöliittymää.
+
 Prosessimallit
 --------------
+
+
 
 Johtopäätökset, omat mielipiteet
 --------------------------------
 
+* Hyvän dokumentin perusta on se, että siitä saa jonkinlaisen kuvan.
+* Dokumentin perusteella on vakeaa saada mitään kuvaa ilman teknistä tuntemusta.
