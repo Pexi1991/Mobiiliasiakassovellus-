@@ -13,13 +13,14 @@ atomisia palveluita, jotta ei olisi haastavia ja kalliita integraatio projekteja
 	* Johdanto 
 	* järjestelmäarkkitehtuuri, 
 	* vaatimukset,
-	* käyttöliittymästä maininta
+	* käyttöliittymästä maininta.
+	
 	Yhtenäisyydet wikipedia runkoon:
 	* Johdanto 
 	* järjestelmäarkkitehtuuri, 
 	* vaatimukset,
 	* käyttöliittymästä maininta,
-	* käsitteen määrittely
+	* käsitteen määrittely.
 
 Käyttätapaukset
 ---------------
@@ -51,6 +52,7 @@ Miltä se näyttää?
 Prosessimallit
 --------------
 
+* Dokumentissä ei juurikaan kerrota siitä miten projekti toteutetaan.
 
 
 Johtopäätökset, omat mielipiteet
