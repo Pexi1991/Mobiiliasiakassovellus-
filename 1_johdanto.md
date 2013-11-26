@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Tällä ohjelmistotuotanto vaatimusmäärittelyllä dokumentoidaan mobiili-asiakas sovellus. Mobiilisovelluksen 
 käyttäjäryhmänä toimii kauppakeskuksen asiakkaat. Sovellusta käytetään omasta matkapuhelimesta käsin. Sovellusta käytetään
 helpottamaan asiointia ja opastamaan asiakasta. Kauppakeskuksen toimijat ja liikkeet voivat asettaa palveluun oman
@@ -25,28 +24,3 @@ kauppakeskukset toimivat saman pääsovelluksen alla, mutta käyttäjä joutuu l
 mukautuksen puhelimeensa ensimmäisen kauppakeskus asioinnin yhteydessä. Asiakkaan ei tarvitse ladata niiden 
 kauppakeskuksien tietoja, joita hän ei käytä.
 
-
-KOMMENTTIA VAAN JOKA POISTUU
-----------------------------
-elikkäs se mitä oon nyt täst ymmärtäny:
- - kun wifin alueelle tulee, tulee pääilmoitus
-=======
-﻿Tähän kirjoitetaan johdanto.
-
-määrittelytynkä:
-- kun wifin alueelle tulee, tulee pääilmoitus
->>>>>>> master
-- tarjoukset tulee sen mukaan missä liikkuu. esim veromodan ohi kun menee
- ja jos siellä sattuu olemaan vaatetarjous niin puhelin ilmoittaa.
-- voi kysyä sovellukselta mistä saa esim kahvia. tarjoukset tulee ensin 
-ja sitten vasta mistä kaikkialta
-- uusien liikkeiden esittely ja kulkuohje
-- ilmoitukset sukupuolen ja iän mukaan
-- on/off mahdollisuus
-- kaikkia tarjouksia voi selata
-<<<<<<< HEAD
-- naviominaisuus
-=======
-- naviominaisuus
-
->>>>>>> master
