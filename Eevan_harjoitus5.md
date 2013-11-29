@@ -5,6 +5,7 @@ vuokaavio:
 
 
 
+![vuokaavio](/kuva2.jpg)
 
 
 
@@ -14,3 +15,7 @@ vuokaavio:
 
 
 käyttöliittymänäkymä tarjoukset:
+
+
+
+![Tarjoukset-välilehti](/kuva1.jpg)
