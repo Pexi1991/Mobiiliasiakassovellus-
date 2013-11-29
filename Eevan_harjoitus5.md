@@ -1,7 +1,8 @@
-HArjoitus 5 vastaukset:
+Harjoitus 5 vastaukset:
+========================
 
-
-vuokaavio:
+vuokaavio kuinka applikaatio toimii tarjousshoppailun välineenä:
+--
 
 
 
@@ -15,7 +16,7 @@ vuokaavio:
 
 
 käyttöliittymänäkymä tarjoukset:
-
+--
 
 
 ![Tarjoukset-välilehti](/kuva1.jpg)
