@@ -4,7 +4,7 @@
 
 
 Käyttäjätarnat:
-
+--
 
 Uutena asiakkaana haluan löytää helposti millaisia kauppoja kauppakeskus sisältää ja opastuksen kuinka sen löytää.
 
@@ -15,4 +15,12 @@ Käyttäjänä haluan rajata tarjousilmoitusten määrää.
 Kauppiaana haluan tarjoukseni tulevan huomatuksi, jotta liikeeni saisi enemmän asiakkaita.
 
 Kauppakeskuksena haluan kävijämäärien nousevan ja seurata missä asiakkaat kulkevat, jotta voin määritellä hyvät kauppapaikat.
+
+
+
+
+Käyttötapaus - etsi kahvila
+---------------------------
+![Käyttötapauskaavio](/kayttotapaus_etsi_kahvila.png)
+
 
