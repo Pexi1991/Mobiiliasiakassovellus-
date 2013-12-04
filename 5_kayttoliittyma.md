@@ -1,7 +1,7 @@
 Käyttöliittymänäkymät
 =====================
 
-![Aloitus näkymä](<img src="/aloitus_nakyma.png" alt="Drawing" style="width: 200px;"/>)
+![Aloitus näkymä](</aloitus_nakyma.png)
 
 ![Haku näkymä](/haku_nakyma.png)
 
