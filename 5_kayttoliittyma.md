@@ -2,6 +2,7 @@ Käyttöliittymänäkymät
 =====================
 
 ![Aloitus näkymä](/aloitus_nakyma.png)
+{:.some-css-class width="200"}
 
 ![Haku näkymä](/haku_nakyma.png)
 
