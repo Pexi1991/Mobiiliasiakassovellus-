@@ -14,6 +14,8 @@ Haku näkymä
 Navigointi näkymä
 -----------------
 
+![Navigointi haku näkymä](/navi_nakyma_haku.png)
+
 ![Navigointi näkymä](/navi_nakyma.png)
 
 Tarjoukset näkymä
