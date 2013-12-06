@@ -26,10 +26,6 @@ Liikkeet näkymä
 
 ![Liikkeet näkymä](/liikkeet_nakyma.png)
 
-Kauppan tiedot näkymä
----------------------
-
-![Kaupan info näkymä](/kaupan_info_nakyma.png)
 
 Liikkuminen käyttöliittymässä
 =============================
