@@ -1,25 +1,35 @@
 Selitykset:
 -----------
 
-* Käyttötietokanta: sisältää tietoja kaupan nimi, aukioloajat, liikkeenkategoria, tarjoukset, 
-kamppaniat, liikkeen koordinaatit, määritteitä/tageja.
+* Käyttötietokanta sisältää tietoja kaupan nimi, aukioloajat, liikkeenkategoria, tarjoukset, 
+kamppaniat, liikkeen koordinaatit, määritteitä/tageja yms. mitä sitten ikinä ohjelmiston toiminnallisuuteen vaaditaan. 
+
+Nämä tiedot ovat tietoja joiden avulla käyttöjärjestelmä välittää
+käyttäjälle tietoja kyseisestä kauppakeskuksesta. Esimerkkinä käyttäjä etsii liikkeen tietoja, nuo tiedot luetaan käyttötietokannasta
+tai vaikkapa kun halutaan navigoida liikkeeseen liikkeen koordinaatit välittyy täältä tietokannasta.
 
 * Käyttäjätietokanta: sisältää tiedot käyttäjän nimi, käyttäjätunnus, salasana, syntymäaika, 
 osoite, tiedot, käyttäjän sijaintihistoria(koordinaatit), käyttölokin(mitä tehnyt, missä tehnyt, kuinka kauan jne).
+
+Käyttäjätietokanta palvelee käyttäjää erityisesti tunnistautumisessa, sillä käyttäjätietokanta sisältää tiedot oikeista tunnuksista.
+Käyttäjätietokantaan säilötään realiajassa tiedot käyttäjän sijainnista, sekä mahdollisista käyttötapauksista ja tottumuksista. 
+Käyttötottumuksilla ja tapauksilla tarkoitan tietoja, joita on kerätty esimerkiksi silloin kun asiakas on käynyt liikkeestä
+ja näyttänyt qr-koodia saadakseen alennuksen. Realiaikaista sijaintia verrataan käyttötietokannasta kaivettavien liikeiden
+koordinaatteihin ja tällätavalla pystytään ehdottelemaan käyttäjälle realiajassa sijaintiin kytkettyjä tarjouksia.
 
 * Tunnistautuminen: käyttäjätunnus, salasana.
 
 Perustoiminta kulut:
 --------------------
 
-* Asiakaskäyttäjä: tunnistautuu, jonka jälkeen käyttöjärjestelmään ladataan käyttäjätiedot 
-käyttäjätietokannasta sekä sen hetkinen sisältö käyttötietokannasta.
+* Asiakaskäyttäjä tunnistautuu, jonka jälkeen käyttöjärjestelmään ladataan käyttäjätiedot 
+käyttäjätietokannasta sekä käyttöjärjestelmää sisältö käyttötietokannasta.
 
-* Sisällönluoja: tunnistautuu, jonka jälkee sisällönluojan käyttöjärjestelmän ladataan tunnistamisessa 
+* Sisällönluoja (kauppa) tunnistautuu, jonka jälkee sisällönluojan käyttöjärjestelmä ladataan tunnistamisessa 
 tulleiden käyttäjätietokanta tietojen perusteella oikeksi ja käyttöjärjestelmään tuodaan liikkeen 
 tiedot käyttötietokannasta.
 
-* Ylläpitäjä: tunnistautuu ja pääsee käsiksi huoltojärjestelmään ja sen avulla kaikkii järjestelmän osiin.
+* Ylläpitäjä tunnistautuu ja pääsee käsiksi huoltojärjestelmään ja sen avulla kaikkii järjestelmän osiin.
 
 
 
