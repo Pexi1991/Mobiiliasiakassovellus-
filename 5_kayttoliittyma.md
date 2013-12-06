@@ -31,7 +31,9 @@ näkymää voidaan rullata alaspäin. Kun liikkeitä löydetään sovellus esitt
 sekä pikapainikkeet: WWW, Tarjoukset ja NAVIGOI.
 
 WWW: 		Avaa puhelimen nettiselaimen ja avaa kyseiselle liikkeelle määritellyn www-osoitteen.
+
 Tarjoukset: 	Avaa tarjoukset sivun sovelluksessa ja näyttää kaikki kyseisen liikkeen tarjoukset ja muita uutisia.
+
 Navigoi: 		Sovelluksen sisäinen navigointi sovellus käynnistyy ja ohjaa asiakkaan haluttuun liikeeseen.
 
 ![Haku näkymä](/haku_nakyma.png)
