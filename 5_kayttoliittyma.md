@@ -5,7 +5,11 @@ Liikkuminen käyttöliittymässä
 =============================
 
 Sovelluksen sisäinen navigointi tapahtuu käyttämällä vasemmassa reunassa olevia päävalikko painikkeita. 
-Painikkeet näkyvät kaikissa tiloissa oli sitten kyseessä navigointi tai vaikkapa tarjousten selailu. 
+Painikkeet näkyvät kaikissa tiloissa oli sitten kyseessä navigointi tai vaikkapa tarjousten selailu.
+
+Sovelluksessa ei tarvetta paluu-näppäimelle. Sovelluksessa ei tarvitse tehdä montaa valintaa navigoidakseen.
+ Navigointi sovelluksessa alkaa aina valitsemalla päävalikosta haluttu valinta. Sovelluksen asetukset löytyy 
+ käyttäjärjetelmälle tyypilliseen tapaan. Soveluksessa tapahtuva tekstinsyöttö onnistuu puhelimen näppäimistöllä. 
 
 ![Liikkuminen](/liikkuminen.png)
 
