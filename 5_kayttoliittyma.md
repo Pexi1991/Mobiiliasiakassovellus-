@@ -1,43 +1,14 @@
 Käyttöliittymänäkymät
 =====================
 
-Aloitus näkymä
---------------
-
-![Aloitus näkymä](</aloitus_nakyma.png)
-
-Haku näkymä
------------
-
-![Haku näkymä](/haku_nakyma.png)
-
-Navigointi näkymä
------------------
-
-![Navigointi haku näkymä](/navi_nakyma_haku.png)
-
-![Navigointi näkymä](/navi_nakyma.png)
-
-Tarjoukset näkymä
---------------
-
-![Tarjoukset näkymä](/tarjoukset_nakyma.png)
-
-![Tarjoukset näkymä](/tarjoukset_nakyma_qr.png)
-
-Liikkeet näkymä
----------------
-
-![Liikkeet näkymä](/liikkeet_nakyma.png)
-
-
 Liikkuminen käyttöliittymässä
 =============================
 
-![Liikkuminen](/liikkuminen.png)
-
 Sovelluksen sisäinen navigointi tapahtuu käyttämällä vasemmassa reunassa olevia päävalikko painikkeita. 
 Painikkeet näkyvät kaikissa tiloissa oli sitten kyseessä navigointi tai vaikkapa tarjousten selailu. 
+
+![Liikkuminen](/liikkuminen.png)
+
 
 Aloitusnäkymä
 -------------
@@ -47,6 +18,8 @@ kauppakeskuksesta. Home-näkymää voidaan myöskin selata alaspäin sormella vi
 ikkuna pysyy sivun alalaidassa ja ilmaisee realiaikaisen sijainnin. Tuon yhteydessä tarjotaan asiakkaalle 
 jotain sijaintiin riippuvaa tarjousta. Tarjous myöskin määräytyy sen mukaan mitä asiakas on määritellyt 
 oman kiinnostuksen kohteiksi.
+
+![Aloitus näkymä](/aloitus_nakyma.png)
 
 Haku näkymä
 -----------
@@ -61,6 +34,8 @@ WWW: 		Avaa puhelimen nettiselaimen ja avaa kyseiselle liikkeelle määritellyn 
 Tarjoukset: 	Avaa tarjoukset sivun sovelluksessa ja näyttää kaikki kyseisen liikkeen tarjoukset ja muita uutisia.
 Navigoi: 		Sovelluksen sisäinen navigointi sovellus käynnistyy ja ohjaa asiakkaan haluttuun liikeeseen.
 
+![Haku näkymä](/haku_nakyma.png)
+
 Liikkeet näkymä
 ---------------
 
@@ -71,6 +46,8 @@ kategorian liikkeet aakkosjärjestyksessä. Liikkeitä selaillaan näytöllä vi
 yhteydessä samat toiminnallisuudet kuin ”Haku”-näkymässäkin. Pikanäppäimillä päästään siirtymään navigointiin, 
 liikkeen www-sivuille tai sitten tarkastelemaan tarjouksia. Tässä liikkeet näkymässä liikkeen kohdalla näytetään 
 myös liikkeen sijainti esim. ”Katutaso 1.krs”.
+
+![Liikkeet näkymä](/liikkeet_nakyma.png)
 
 Tarjoukset näkymä
 -----------------
@@ -89,6 +66,11 @@ kautta edistää mainostamista niin tuolloin tarjouksen yhteyteen voidaan sijoit
 kosketetaan se suurenee lukulaiteen lukua varten hieman. Osa tarjouksista on vain sovellusta käyttäville, 
 jotta sovelluksesta tulisi mielekäs käyttää ja käyttäjä pitäisi sovellusta hyödyllisenä.
 
+![Tarjoukset näkymä](/tarjoukset_nakyma.png)
+
+![Tarjoukset näkymä](/tarjoukset_nakyma_qr.png)
+
+
 Navigointi näkymä
 -----------------
 
@@ -102,5 +84,9 @@ Varsinainen navigointi näkymässä navigoidaan. Näkymässä näkyy kartta, jos
 myöskin kohteen sijainti. Karttanäkymä on aina siinä suunnassa mihin katsotaan. Navigaatio näkymässä näkyy 
 valittu kohda ja sen hetkiset ohjeet liikkumiseen. Tämän lisäksi näkymän yläreunassa on haku palkki, mikäli 
 haluaa sittenkin etsiytyä jonnekkin muualle.
+
+![Navigointi haku näkymä](/navi_nakyma_haku.png)
+
+![Navigointi näkymä](/navi_nakyma.png)
  
 
