@@ -21,6 +21,8 @@ Tarjoukset näkymä
 
 ![Tarjoukset näkymä](/tarjoukset_nakyma.png)
 
+![Tarjoukset näkymä](/tarjoukset_nakyma_qr.png)
+
 Liikkeet näkymä
 ---------------
 
