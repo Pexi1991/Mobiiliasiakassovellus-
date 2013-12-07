@@ -17,8 +17,10 @@ myöskin asiakkaan kauppakeskusnavigointia helpottava toiminto, joka kertoo asia
 Sovelluksen päällimmäisenä tarkoituksena on toimia erittäin myyvästi ja jopa hieman tyrkyttävästi.
 Tavoitteena on tuottaa lisämyyntiä kauppakeskus-sovelluksessa mukana oleville liikkeille. Sovellus suunnitellaan
 toimivaksi kaikissa suurissa kauppakeskuksissa. Kauppakeskus voi ostaa sovelluksen käyttöönsä. Kun näin tehdään
-sovellukselle luodaan kauppakeskuskohtainen ulkoasu ja lisätään oikea sisältö sovellukseen. Kaikki eri
-kauppakeskukset toimivat saman pääsovelluksen alla, mutta käyttäjä joutuu lataamaan kauppakeskus kohtaisen
-mukautuksen puhelimeensa ensimmäisen kauppakeskus asioinnin yhteydessä. Asiakkaan ei tarvitse ladata niiden 
-kauppakeskuksien tietoja, joita hän ei käytä.
+sovellukselle luodaan kauppakeskuskohtainen ulkoasu ja lisätään oikea sisältö sovellukseen. Sisältöä voi helposti 
+kauppias muokkaille esimerkkiksi kamppanioiden muuttuessa. Kaikki eri
+kauppakeskukset toimivat saman sovelluksen avulla, mutta käyttäjät joutuu lataamaan kauppakeskus kohtaisen
+mukautuksen puhelimeensa ensimmäisen kauppakeskus asioinnin yhteydessä tai muussa yhteydessä. Asiakkaan ei tarvitse ladata niiden 
+kauppakeskuksien tietoja, joita hän ei käytä. Sovellukseen kirjautuessa sovellus tarkastaa käyttäjän gps-signaalin ja oikean kauppakeskuksen
+tiedot ladataan näytölle. Erikauppakeskuksia voi tarkastella vaihtamalla käytettävää kauppakeskusta.
 
