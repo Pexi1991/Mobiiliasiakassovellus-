@@ -33,11 +33,19 @@ käyttäjätietokannasta sekä käyttöjärjestelmää sisältö käyttötietoka
 * Kun sovellus esittää esimerkiksi tarjouksia käyttäjälle käyttäjän realiakaiseen sijaintiin perustuen, tuolloin sovellus
 käyttää käyttäjäntietokantaa (asiakkaankoordinaatit) ja käyttötietokantaa (liikkeenkoordinaatit) kyseisten etäisyyksien tarkasteluun.
 
-* 
+* Asiakaskäyttäjän käyttäessä jotain liikkeen kertakäyttöisiä tarjouksia tai tietylle käyttäjäryhmälle suunnattuja tarjouksia
+asiakkaan käyttöjärjestelmä lataa tiedot kyseisista alennuksista. Käyttötietokantaan sisällönluoja on luonut tiedot että tietyn piirteen
+täyttävä asiakas saa tämän edun. Kun etu käytetään tieto lähetetään käyttötietokantaan ja "leimataan" käytetyksi.
+
+* Asiakaskäyttäjän liikkuessa kauppakeskuksessa liikkeet kirjataan käyttäjätietokantaan.
 
 * Sisällönluoja (kauppa) tunnistautuu, jonka jälkee sisällönluojan käyttöjärjestelmä ladataan tunnistamisessa 
 tulleiden käyttäjätietokanta tietojen perusteella oikeksi ja käyttöjärjestelmään tuodaan liikkeen 
 tiedot käyttötietokannasta.
+
+* Sisällönluoja (kauppias) voi sisällönluonnin jälkeen luoda sisältöä sovellukseen. Sisällönluoja luo sisällön käyttäen
+käyttöjärjestelmää joka on mukautettu sisällönluontiin. Muutokset kirjataan käyttötietokantaan, josta sitten asiakaspuolen
+sovellus käy tiedot hakemassa.
 
 * Ylläpitäjä tunnistautuu ja pääsee käsiksi huoltojärjestelmään ja sen avulla kaikkii järjestelmän osiin.
 
