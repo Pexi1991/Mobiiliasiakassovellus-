@@ -1,3 +1,6 @@
+1 Johdanto
+==========
+ 
 Tällä ohjelmistotuotanto vaatimusmäärittelyllä dokumentoidaan mobiili-asiakas sovellus. Mobiilisovelluksen 
 käyttäjäryhmänä toimii kauppakeskuksen asiakkaat. Sovellusta käytetään omasta matkapuhelimesta käsin. Sovellusta käytetään
 helpottamaan asiointia ja opastamaan asiakasta. Kauppakeskuksen toimijat ja liikkeet voivat asettaa palveluun oman
