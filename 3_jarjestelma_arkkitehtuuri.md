@@ -1,3 +1,6 @@
+3 Järjestelmäarkkitehtuuri
+==========================
+
 Selitykset:
 -----------
 
@@ -24,6 +27,13 @@ Perustoiminta kulut:
 
 * Asiakaskäyttäjä tunnistautuu, jonka jälkeen käyttöjärjestelmään ladataan käyttäjätiedot 
 käyttäjätietokannasta sekä käyttöjärjestelmää sisältö käyttötietokannasta.
+
+* Asiakaskäyttäjän liikkuessa kauppakeskuksessa sijaintien koordinaatit kirjataan käyttäjätietokantaan.
+
+* Kun sovellus esittää esimerkiksi tarjouksia käyttäjälle käyttäjän realiakaiseen sijaintiin perustuen, tuolloin sovellus
+käyttää käyttäjäntietokantaa (asiakkaankoordinaatit) ja käyttötietokantaa (liikkeenkoordinaatit) kyseisten etäisyyksien tarkasteluun.
+
+* 
 
 * Sisällönluoja (kauppa) tunnistautuu, jonka jälkee sisällönluojan käyttöjärjestelmä ladataan tunnistamisessa 
 tulleiden käyttäjätietokanta tietojen perusteella oikeksi ja käyttöjärjestelmään tuodaan liikkeen 
