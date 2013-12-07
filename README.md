@@ -1,5 +1,13 @@
-Mobiiliasiakassovellus
-----------------------
+Mobiiliasiakassovellus: Asiakassovellus kauppakeskuksille
+=========================================================
+
+Ryhmän jäsenet: Pekka Virtanen, Eeva Haataja.
+
+8.12.2013
+
+Sisällys
+--------
+
 [1. Johdanto](/1_johdanto.md)
 
 [2. Käyttötapaukset](/2_kayttotapaukset.md)
