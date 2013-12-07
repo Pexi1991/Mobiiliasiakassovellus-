@@ -1,5 +1,6 @@
-Käyttöliittymänäkymät
-=====================
+5 Käyttöliittymät
+=================
+
 
 Liikkuminen käyttöliittymässä
 =============================
@@ -12,6 +13,9 @@ Sovelluksessa ei tarvetta paluu-näppäimelle. Sovelluksessa ei tarvitse tehdä 
  käyttäjärjetelmälle tyypilliseen tapaan. Soveluksessa tapahtuva tekstinsyöttö onnistuu puhelimen näppäimistöllä. 
 
 ![Liikkuminen](/liikkuminen.png)
+
+Käyttöliittymänäkymät
+=====================
 
 
 Aloitusnäkymä
