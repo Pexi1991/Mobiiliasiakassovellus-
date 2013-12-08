@@ -41,7 +41,7 @@ Käyttäjäkaavio
 ![Käyttökaavio](/kayttajakaavio2.jpg)
 
 Käyttäjäskenaariot
-
+--
 Skenaario 1
 
 Kuvaus: asiakas haluaa selata kauppakeskuksen ravintoloita.
@@ -49,9 +49,9 @@ Kuvaus: asiakas haluaa selata kauppakeskuksen ravintoloita.
 Lähtötilanne: asiakas on avannut sovelluken ja on Home-välilehdellä. Hänellä on edelleen kauppakeskuksen Wi-Fi yhteys.
 
 Normaali eteneminen: 
-1. asiakas valitsee välilehden liikkeet
-2. asiakas painaa nappia joka kuvastaa ravintoloita
-3. kaikki kauppakeskuksen ravintolat listautuvat näytölle.
+	1. asiakas valitsee välilehden liikkeet
+	2. asiakas painaa nappia joka kuvastaa ravintoloita
+	3. kaikki kauppakeskuksen ravintolat listautuvat näytölle.
 
 Vaihtoehtoinen eteneminen: 
 1. asiakas valitsee v älilehden Haku.
