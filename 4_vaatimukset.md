@@ -1,11 +1,13 @@
 ﻿
 
-Funktionaaliset vaatimukset
+4. Vaatimukset
 ==
 
-
-Asiakkaan puhelinsovelluksen funktionaaliset vaatimukset
+4.1. Funktionaaliset vaatimukset
 --
+
+###4.1.1. Asiakkaan puhelinsovelluksen funktionaaliset vaatimukset
+
 
 
 + Rekisteröityminen: tämä tulee vain kuin sovellus avataan enimmäistä kertaa. Käyttäjän tulee syöttää sukupuolensa, ikänsä, sähköpostinsa ja salasanansa
@@ -25,12 +27,12 @@ Asiakkaan puhelinsovelluksen funktionaaliset vaatimukset
 
 
 
-Ei-funktionaaliset vaatimukset
-==
-
-
-Käytettävyys
+4.2. Ei-funktionaaliset vaatimukset
 --
+
+
+###4.2.1. Käytettävyys
+
 
 Palvelulla on oma nettisivustonsa, minkä kautta ylläpitäjät,  kaikki kauppakeskukset ja kaupat päivittävät tietojaan. Samalle sivustolle ohjataan uusimaan salasana, sekä sähköpostin aktivointi sähköpostiin lähetetyn linkin avulla. Tässä vaatimusmäärittelyssä keskitytään puhelinsovellukseen.
 
@@ -39,13 +41,13 @@ Sovelluksen voi ladata vain älypuhelimeen tai tablettiin. Laitteen tulee pysty�
 
 
 
-Yksityisyys
---
+###4.2.2. Yksityisyys
+
 
 Tietoja pääsee tarkkailemaan hyvin rajoitetusti. Vain ylläpitäjä pääsee käsiksi koko käyttäjädataan (salasanaa lukuunottamatta). Kauppakeskukselle ja kaupoille näkyy vain sovelluksen antama ID-numero, ikä ja sukupuoli. Kauppakeskuksella on mahdollisuus tarkkailla yksittäisen kävijän reittiä, sekä toimintaa sovelluksessa. Kauppa näkee vain kaupassa QR-koodin kanssa asioineiden ja kaupan sisällä todennäköisesti käyneiden käyttäjien tiedot ja kaupassa vietetyn ajan.
 
-Muut vaatimukset
---
+###4.2.3. Muut vaatimukset
+
 
 Jotta sovellus toimisi sujuvasti täytyy kauppakeskuksen itse tarjota riittävä Wi-Fi. On kauppakeskuksen oma valinta onko Wi-Fi suojattu vai avoin. Suojattuna, Wi-Fin kirjautumisena käy käyttäjän sähköposti ja salasana sovellukseen, eikä manuaalista kirjautumista tarvitse tehdä kuin kerran laitetta kohti.
 

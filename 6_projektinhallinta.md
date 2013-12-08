@@ -1,8 +1,7 @@
-Projektin hallinta, reflektio
+6. Projektin hallinta, reflektio
 ==
 
 
-6. Projektin hallinta, reflektio
  
 Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
 kirjoittamiseen meni aikaa per henkilö.
@@ -16,20 +15,20 @@ olleet tyytyväisiä?
 
 
 
-Työaika
+6.1. Työaika
 –
 
 Eeva: alkuarvio 20 tuntia, todellinen suunnilleen sama. 
 Pekka:
 
-Projekti
+6.2. Projekti
 --
 
 Vaikeaa oli rajata aihetta, ettei projekti paisuisi liian isoksi. Myös projektin aika tilanne meinasi riistäytyä käsistä kun tuli paljon parannusehdotuksia. Seuraavassa projektissa rajaamme aiheen jo alussa tiukemmin ja muokkaamme rajoja myöhemmin vain jos kysessä on olennainen asia. 
 
 Lähdimme projektissa liikkeelle, että kaikki osapuolet hyötyisivät ja sitä oikeasti voisi joku käyttääkin. Jos olisin kauppakeskuksen omistaja, niin ostaisin ja asiakkaan käyttäisin tuotetta. 
 
-Dokumentointi
+6.3. Dokumentointi
 --
 
 Haastetta toi markdown-kielen käyttö.
