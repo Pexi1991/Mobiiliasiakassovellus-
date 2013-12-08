@@ -38,7 +38,7 @@ Kauppakeskuksena haluan kävijämäärien nousevan ja seurata missä asiakkaat k
 Käyttäjäkaavio
 --
 
-![Käyttökaavio](/kayttajakaavio2.JPG)
+![Käyttökaavio](/kayttajakaavio2.jpg)
 
 Käyttäjäskenaariot
 
