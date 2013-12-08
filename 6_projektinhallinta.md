@@ -19,7 +19,8 @@ olleet tyytyväisiä?
 –
 
 Eeva: alkuarvio 20 tuntia, todellinen suunnilleen sama. 
-Pekka:
+
+Pekka: alkuarvio 25 tuntia, vähintään 25 tuntia kului oikeastikkin.
 
 6.2. Projekti
 --
