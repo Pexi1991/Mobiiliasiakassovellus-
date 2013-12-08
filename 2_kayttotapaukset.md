@@ -36,8 +36,9 @@ Kauppiaana haluan rajata tarjouksen käytön vain yhteen käyttökertaan.
 Kauppakeskuksena haluan kävijämäärien nousevan ja seurata missä asiakkaat kulkevat, jotta voin määritellä hyvät kauppapaikat.
 
 Käyttäjäkaavio
+--
 
-![Käyttökaavio](/kayttajakaavio2.jpg)
+![Käyttökaavio](/kayttajakaavio2.JPG)
 
 Käyttäjäskenaariot
 
