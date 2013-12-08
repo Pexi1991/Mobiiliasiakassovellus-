@@ -20,7 +20,7 @@ olleet tyytyväisiä?
 
 Eeva: alkuarvio 20 tuntia, todellinen suunnilleen sama. 
 
-Pekka: alkuarvio 25 tuntia, vähintään 25 tuntia kului oikeastikkin.
+Pekka: alkuarvio 25 tuntia, vähintään 25 tuntia kului oikeastikkin. Työmäärää oli aika vaikea arvioida koska ei ollut tarkkaa käsitystä edes siitä mitä oli tekemässä(vaatimusmäärittelydokumentaatio). Lähdettiin vain kehittelemään juttua periaatteella "katsoo kuinka kauan menee, kunhan deadlineen kerkiää".
 
 6.2. Projekti
 --
