@@ -8,19 +8,19 @@ Asiakkaan puhelinsovelluksen funktionaaliset vaatimukset
 --
 
 
-Rekisteröityminen: tämä tulee vain kuin sovellus avataan enimmäistä kertaa. Käyttäjän tulee syöttää sukupuolensa, ikänsä, sähköpostinsa ja salasanansa
-Reksiteröinti → Sähköposti jo käytössä: samalla sähköpostilla ei voi olla toista tunnusta, eikä sitä myöten toista salasanaakaan. Näyttöön tulee ilmoitus, että sähköposti on jo käytössä.  Annetaan mahdollisuus kirjautua sisään sillä sähköpostiosoitteella.
-Tunnistautuminen: rekisteröinnin yhteydessä käyttäjä saa automaattisen ID numeron, joka on riippuvainen annetusta sähköpostista. Näin esimerkiksi kahta puhelinta käyttävä voi käyttää sovellusta yhtenä henkilönä, eikä tilastot vääristy.
-Kirjautuminen: kun sovellus käynnistetään kirjautuminen tapahtuu automaattisesti. Mikäli näin ei tapahdu avautuu rekisteröinti mahdollisuus tai manuaalinen kirjautuminen. Manuaaliseen kirjautumiseen tarvitaan sähköposti ja salasana.
-Salasanan unohtaminen: manuaalisen kirjautumisen yhteydessä on mahdollisuus valita toiminto jossa asiakkaalle lähetetään annetamaansa sähköpostiin linkki salasanan uusimiseen.
-Sähköpostin unohtaminen: käyttäjän täytyy rekisteröityä uudelleen.
-Tunnuksen poisto: tunnuksen voi poistaa käytöstä puhelimen lisävalikkonapin takaa, kohdasta asetukset. 
-Sähköpostin aktivointi: rekisteröinnin jälkeen pyydetään aktivoimaan sähköposti. Ennen kuin sähköposti on aktivointi tarjouksia ei voi nähdä. Aktivointilinkki tulee sähköpostiin ja linkki johtaa sovelluksen nettisivuille, jossa suoritetaan aktivointi.
-Perustietojen muokkaus: puhelimen lisävalikkonapin takaa kohdasta perustiedot, voi muokata mitä tarjouksia haluaa. Ikää ja sukupuolta ei voi vaihtaa enää jälkikäteen.
-Navigointi: aina kun painetaan navigoi-nappia niin annetaan reittiohjeet haluttuun paikkaan kun lähtöpaikka on Wi-Fin kautta laskettu paikka. Reittiohje on sekä kartalla, että kirjallisesti.
-Mainosilmoitus: kun käyttäjä kulkee riittävän lähellä kauppaa hän saa puhelimeensa ilmoituksen tarjouksesta, mikäli heillä sellainen on. Sama tarjousilmoitus tulee vain kerran.
-Tarjouksen käyttö: Tarjousta näytetään puhelimesta myyjälle oston yhteydessä. Tarjous ei ole tällöin kertakäyttöinen. Jos tehdää kertakäyttöinen tarjous, käytetään QR-koodia, joka luetaan kassalla.
-Haku: hakutulokset perustuvat liikeiden nimiin ja niiden tageihin.
++ Rekisteröityminen: tämä tulee vain kuin sovellus avataan enimmäistä kertaa. Käyttäjän tulee syöttää sukupuolensa, ikänsä, sähköpostinsa ja salasanansa
++ Reksiteröinti → Sähköposti jo käytössä: samalla sähköpostilla ei voi olla toista tunnusta, eikä sitä myöten toista salasanaakaan. Näyttöön tulee ilmoitus, että sähköposti on jo käytössä.  Annetaan mahdollisuus kirjautua sisään sillä sähköpostiosoitteella.
++ Tunnistautuminen: rekisteröinnin yhteydessä käyttäjä saa automaattisen ID numeron, joka on riippuvainen annetusta sähköpostista. Näin esimerkiksi kahta puhelinta käyttävä voi käyttää sovellusta yhtenä henkilönä, eikä tilastot vääristy.
++ Kirjautuminen: kun sovellus käynnistetään kirjautuminen tapahtuu automaattisesti. Mikäli näin ei tapahdu avautuu rekisteröinti mahdollisuus tai manuaalinen kirjautuminen. Manuaaliseen kirjautumiseen tarvitaan sähköposti ja salasana.
++ Salasanan unohtaminen: manuaalisen kirjautumisen yhteydessä on mahdollisuus valita toiminto jossa asiakkaalle lähetetään annetamaansa sähköpostiin linkki salasanan uusimiseen.
++ Sähköpostin unohtaminen: käyttäjän täytyy rekisteröityä uudelleen.
++ Tunnuksen poisto: tunnuksen voi poistaa käytöstä puhelimen lisävalikkonapin takaa, kohdasta asetukset. 
++ Sähköpostin aktivointi: rekisteröinnin jälkeen pyydetään aktivoimaan sähköposti. Ennen kuin sähköposti on aktivointi tarjouksia ei voi nähdä. Aktivointilinkki tulee sähköpostiin ja linkki johtaa sovelluksen nettisivuille, jossa suoritetaan aktivointi.
++ Perustietojen muokkaus: puhelimen lisävalikkonapin takaa kohdasta perustiedot, voi muokata mitä tarjouksia haluaa. Ikää ja sukupuolta ei voi vaihtaa enää jälkikäteen.
++ Navigointi: aina kun painetaan navigoi-nappia niin annetaan reittiohjeet haluttuun paikkaan kun lähtöpaikka on Wi-Fin kautta laskettu paikka. Reittiohje on sekä kartalla, että kirjallisesti.
++ Mainosilmoitus: kun käyttäjä kulkee riittävän lähellä kauppaa hän saa puhelimeensa ilmoituksen tarjouksesta, mikäli heillä sellainen on. Sama tarjousilmoitus tulee vain kerran.
++ Tarjouksen käyttö: Tarjousta näytetään puhelimesta myyjälle oston yhteydessä. Tarjous ei ole tällöin kertakäyttöinen. Jos tehdää kertakäyttöinen tarjous, käytetään QR-koodia, joka luetaan kassalla.
++ Haku: hakutulokset perustuvat liikeiden nimiin ja niiden tageihin.
 
 
 

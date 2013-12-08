@@ -42,11 +42,16 @@ Käyttäjäkaavio
 
 Käyttäjäskenaariot
 --
+
+
 ###Skenaario 1
+
 
 Kuvaus: asiakas haluaa selata kauppakeskuksen ravintoloita.
 
+
 Lähtötilanne: asiakas on avannut sovelluken ja on Home-välilehdellä. Hänellä on edelleen kauppakeskuksen Wi-Fi yhteys.
+
 
 Normaali eteneminen: 
 
@@ -54,13 +59,16 @@ Normaali eteneminen:
 2. asiakas painaa nappia joka kuvastaa ravintoloita
 3. kaikki kauppakeskuksen ravintolat listautuvat näytölle.
 
+
 Vaihtoehtoinen eteneminen: 
 
 1. asiakas valitsee v älilehden Haku.
 2. Hän käyttää hakusanaa Ruoka, tai Ravintola
 3. Näytölle ilmestyvät hakutulokset antavat kaikki liikkeet jotka ovat merkinneet tageihinsä haetun sanan.
 
+
 Lopputilanne: asiakas on saanut  näyttölle näkyville kauppakeskuksen ravintoloiden nimet selattavaksi.
+
 
 Mahdolliset vikatilanteet:
 
@@ -68,11 +76,15 @@ Mahdolliset vikatilanteet:
 2. Vaihtoehtoisessa tilanteessa ei-ravintolat  ja ravintolat eivät erotu selkeästi hakutilanteessa
 
 
+
+
 ###Skenaario 2
 
 Kuvaus: asiakas haluaa löytää tiensä lähimpään kahvilaan.
 
+
 Lähtötilanne:  asiakas on avannut sovelluken ja on Home-välilehdellä. Hänellä on edelleen kauppakeskuksen Wi-Fi yhteys.
+
 
 Normaali eteneminen: 
 
@@ -83,6 +95,7 @@ Normaali eteneminen:
 5. Asiakas arvioi mikä kahvila on lähinnä.
 6. Asiakas avaa valitsemansa kahvilan navigoinnin ja seuraa opastusta
 
+
 Vaihtoehtoinen eteneminen: 
 
 1. Asiakas valitsee välilehden Haku.
@@ -92,7 +105,9 @@ Vaihtoehtoinen eteneminen:
 5. Asiakas arvioi mikä kahvila on lähinnä.
 6. Asiakas avaa valitsemansa kahvilan navigoinnin ja seuraa opastusta.
 
+
 Lopputilanne: Asiakas on löytänyt lähimmän kahvilan.
+
 
 Mahdolliset vikatilanteet:
 
