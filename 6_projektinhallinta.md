@@ -16,7 +16,7 @@ olleet tyytyväisiä?
 
 
 6.1. Työaika
-–
+--
 
 Eeva: alkuarvio 20 tuntia, todellinen suunnilleen sama. 
 
