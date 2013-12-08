@@ -64,7 +64,7 @@ Normaali eteneminen:
 
 Vaihtoehtoinen eteneminen: 
 
-1. asiakas valitsee v älilehden Haku.
+1. Asiakas valitsee välilehden Haku.
 2. Hän käyttää hakusanaa Ruoka, tai Ravintola
 3. Näytölle ilmestyvät hakutulokset antavat kaikki liikkeet jotka ovat merkinneet tageihinsä haetun sanan.
 
