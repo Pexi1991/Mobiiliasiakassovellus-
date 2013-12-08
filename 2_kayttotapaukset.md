@@ -42,18 +42,20 @@ Käyttäjäkaavio
 
 Käyttäjäskenaariot
 --
-Skenaario 1
+###Skenaario 1
 
 Kuvaus: asiakas haluaa selata kauppakeskuksen ravintoloita.
 
 Lähtötilanne: asiakas on avannut sovelluken ja on Home-välilehdellä. Hänellä on edelleen kauppakeskuksen Wi-Fi yhteys.
 
 Normaali eteneminen: 
-	1. asiakas valitsee välilehden liikkeet
-	2. asiakas painaa nappia joka kuvastaa ravintoloita
-	3. kaikki kauppakeskuksen ravintolat listautuvat näytölle.
+
+1. asiakas valitsee välilehden liikkeet
+2. asiakas painaa nappia joka kuvastaa ravintoloita
+3. kaikki kauppakeskuksen ravintolat listautuvat näytölle.
 
 Vaihtoehtoinen eteneminen: 
+
 1. asiakas valitsee v älilehden Haku.
 2. Hän käyttää hakusanaa Ruoka, tai Ravintola
 3. Näytölle ilmestyvät hakutulokset antavat kaikki liikkeet jotka ovat merkinneet tageihinsä haetun sanan.
@@ -61,17 +63,19 @@ Vaihtoehtoinen eteneminen:
 Lopputilanne: asiakas on saanut  näyttölle näkyville kauppakeskuksen ravintoloiden nimet selattavaksi.
 
 Mahdolliset vikatilanteet:
+
 1. Vaihtoehtoisessa tilanteessa, hakutuloksiin ei välttämättä tule kaikki ravintolat, jos kaikki ravintolat eivät ole laittaneet kyseisiä tagejä liikkeensä tietoihin.
 2. Vaihtoehtoisessa tilanteessa ei-ravintolat  ja ravintolat eivät erotu selkeästi hakutilanteessa
 
 
-Skenaario 2
+###Skenaario 2
 
 Kuvaus: asiakas haluaa löytää tiensä lähimpään kahvilaan.
 
 Lähtötilanne:  asiakas on avannut sovelluken ja on Home-välilehdellä. Hänellä on edelleen kauppakeskuksen Wi-Fi yhteys.
 
 Normaali eteneminen: 
+
 1. Asiakas valitsee välilehden liikkeet
 2. Asiakas painaa nappia joka kuvastaa kahviloita
 3. Kaikki kauppakeskuksen kahvilat listautuvat näytölle.
@@ -80,6 +84,7 @@ Normaali eteneminen:
 6. Asiakas avaa valitsemansa kahvilan navigoinnin ja seuraa opastusta
 
 Vaihtoehtoinen eteneminen: 
+
 1. Asiakas valitsee välilehden Haku.
 2. Hän käyttää hakusanaa Kahvi
 3. Näytölle ilmestyvät hakutulokset antavat kaikki liikkeet jotka ovat merkinneet tageihinsä haetun sanan.
@@ -90,6 +95,7 @@ Vaihtoehtoinen eteneminen:
 Lopputilanne: Asiakas on löytänyt lähimmän kahvilan.
 
 Mahdolliset vikatilanteet:
+
 1. Vaihtoehtoisessa tilanteessa, hakutuloksiin ei välttämättä tule kaikki kahvilat, jos kaikki kahvilat eivät ole laittaneet ”Kahvi”-tagiä liikkeensä tietoihin.
 2. Vaihtoehtoisessa tilanteessa ei-kahvilat ja kahvilat eivät erotu selkeästi hakutilanteessa
 3. Asiakkalla luovuttaa kun sovellus ei ilmoita lähintä kahvilaa.
