@@ -10,7 +10,7 @@
 
 
 + Rekisteröityminen: tämä tulee vain kuin sovellus avataan enimmäistä kertaa. Käyttäjän tulee syöttää sukupuolensa, ikänsä, sähköpostinsa  ja salasanansa. Vaihtoehtoisesti voi rekisteröityä Facebook-tunnuksien avulla.
-+ Reksiteröinti → Sähköposti jo käytössä: samalla sähköpostilla ei voi olla toista tunnusta, eikä sitä myöten toista salasanaakaan. Näyttöön tulee ilmoitus, että sähköposti on jo käytössä.  Annetaan mahdollisuus kirjautua sisään sillä sähköpostiosoitteella.
++ Rekisteröinti → Sähköposti jo käytössä: samalla sähköpostilla ei voi olla toista tunnusta, eikä sitä myöten toista salasanaakaan. Näyttöön tulee ilmoitus, että sähköposti on jo käytössä.  Annetaan mahdollisuus kirjautua sisään sillä sähköpostiosoitteella.
 + Tunnistautuminen: rekisteröinnin yhteydessä käyttäjä saa automaattisen ID numeron, joka on riippuvainen annetusta sähköpostista. Näin esimerkiksi kahta puhelinta käyttävä voi käyttää sovellusta yhtenä henkilönä, eikä tilastot vääristy.
 + Kirjautuminen: kun sovellus käynnistetään kirjautuminen tapahtuu automaattisesti. Mikäli näin ei tapahdu avautuu rekisteröinti mahdollisuus tai manuaalinen kirjautuminen. Manuaaliseen kirjautumiseen tarvitaan sähköposti ja salasana.
 + Salasanan unohtaminen: manuaalisen kirjautumisen yhteydessä on mahdollisuus valita toiminto jossa asiakkaalle lähetetään annetamaansa sähköpostiin linkki salasanan uusimiseen.
