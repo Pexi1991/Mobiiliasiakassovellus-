@@ -1,8 +1,8 @@
-5 Käyttöliittymät
+5. Käyttöliittymät
 =================
 
 
-Liikkuminen käyttöliittymässä
+5.1. Liikkuminen käyttöliittymässä
 =============================
 
 Sovelluksen sisäinen navigointi tapahtuu käyttämällä vasemmassa reunassa olevia päävalikko painikkeita. 
@@ -14,11 +14,11 @@ Sovelluksessa ei tarvetta paluu-näppäimelle. Sovelluksessa ei tarvitse tehdä 
 
 ![Liikkuminen](/liikkuminen.png)
 
-Käyttöliittymänäkymät
+5.2. Käyttöliittymänäkymät
 =====================
 
 
-Aloitusnäkymä
+5.2.1. Aloitusnäkymä
 -------------
 
 Tässä näkymässä tuodaan esille tiivis tietopaketti ajankohtain asioista ja yleisesti kyseessä olevasta 
@@ -29,7 +29,7 @@ oman kiinnostuksen kohteiksi.
 
 ![Aloitus näkymä](/aloitus_nakyma.png)
 
-Haku näkymä
+5.2.2. Haku näkymä
 -----------
 
 Haku näkymään päästään koskettamalla sormella päävalikon Haku-painiketta. Haku näkymässä voidaan 
@@ -46,7 +46,7 @@ Navigoi: 		Sovelluksen sisäinen navigointi sovellus käynnistyy ja ohjaa asiakk
 
 ![Haku näkymä](/haku_nakyma.png)
 
-Liikkeet näkymä
+5.2.3. Liikkeet näkymä
 ---------------
 
 Kauppakeskuksen liikkeitä päästään selaamaan näkymän vasemmassa reunassa olevan ”Liikkeet”- painikkeen 
@@ -59,7 +59,7 @@ myös liikkeen sijainti esim. ”Katutaso 1.krs”.
 
 ![Liikkeet näkymä](/liikkeet_nakyma.png)
 
-Tarjoukset näkymä
+5.2.4. Tarjoukset näkymä
 -----------------
 
 Valittaessa päävalikosta kohta tarjoukset. Avautuu ”Sinun tarjouksesi”-näkymä. Näkymässä esitetään 
@@ -81,7 +81,7 @@ jotta sovelluksesta tulisi mielekäs käyttää ja käyttäjä pitäisi sovellus
 ![Tarjoukset näkymä](/tarjoukset_nakyma_qr.png)
 
 
-Navigointi näkymä
+5.2.5. Navigointi näkymä
 -----------------
 
 Valikosta valittaessa Navigaatio-kohta aukea navigoinin haku. Haku toimii samalla periaatteella kuin 

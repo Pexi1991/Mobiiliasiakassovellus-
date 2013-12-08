@@ -1,7 +1,7 @@
-3 Järjestelmäarkkitehtuuri
+3. Järjestelmäarkkitehtuuri
 ==========================
 
-Selitykset:
+3.1. Selitykset
 -----------
 
 * Käyttötietokanta sisältää tietoja kaupan nimi, aukioloajat, liikkeenkategoria, tarjoukset, 
@@ -22,7 +22,7 @@ koordinaatteihin ja tällätavalla pystytään ehdottelemaan käyttäjälle real
 
 * Tunnistautuminen: käyttäjätunnus, salasana.
 
-Perustoiminta kulut:
+3.2. Perustoiminta kulut
 --------------------
 
 * Asiakaskäyttäjä tunnistautuu, jonka jälkeen käyttöjärjestelmään ladataan käyttäjätiedot 

@@ -1,4 +1,4 @@
-1 Johdanto
+1. Johdanto
 ==========
  
 Tällä ohjelmistotuotanto vaatimusmäärittelyllä dokumentoidaan mobiili-asiakas sovellus. Mobiilisovelluksen 

@@ -2,7 +2,7 @@
 ==
 
 
-2.1. Käyttäjäryhmät:
+2.1. Käyttäjäryhmät
 --
 
 Uusi asiakas: henkilö joka on käynyt kauppakeskuksessa vasta muutaman kerran tai käy vasta ensimmäistä kertaa. Lataa sovelluksen ensimmäistä kertaa puhelimeensa.
@@ -16,7 +16,7 @@ Kauppakeskus: osapuoli joka valvoo/tutkii kauppakeskuksen toimintaa, edistääks
 Ylläpito: sovelluksen ylläpito, jolla on oikeus kaikkiin tietoihin, paitsi salasanoihin.Ylläåidon tehtävänä on ylläpitää sovelluksen toimintaa.
 
 
-2.2. Käyttäjätarinat:
+2.2. Käyttäjätarinat
 --
 
 Uutena asiakkaana haluan löytää helposti millaisia kauppoja kauppakeskus sisältää ja opastuksen kuinka sen löytää.
